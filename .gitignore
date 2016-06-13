@@ -1,0 +1,9 @@
+/lib/*
+/client_secrets.json
+/lang-ditection-e76c2de58ffc.json
+/prediction.dat
+/venv/
+*.pyc
+.tags
+.tags1
+
